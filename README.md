@@ -20,7 +20,7 @@
 * I am also looking to contribute to games.
 * Feel free to reach out via my email or connect with me on LinkedIn!
 
-## My Tech Stack
+## Preferred Tech
 
 <img height="32" width="32" align="left" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png' />
 <img height="32" width="32" align="left" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' />
