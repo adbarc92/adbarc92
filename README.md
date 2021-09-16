@@ -1,6 +1,6 @@
 ## 👋 Welcome to my GitHub!
 
-## A few things about me...
+### A few things about me...
 
 * I'm currently open to work.
 * I'm currently working on software for outlining and planning projects
@@ -9,7 +9,7 @@
 * Feel free to reach out via my email or connect with me on LinkedIn!
 
 
-## Here's how to reach me!
+### Here's how to reach me!
 
 <a href="https://www.linkedin.com/in/alex-barclay/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -23,7 +23,7 @@
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 
-## Preferred Tech
+### Preferred Tech
 
 <img height="32" width="32" align="left" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png' />
 <img height="32" width="32" align="left" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' />
