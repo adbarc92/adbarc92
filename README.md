@@ -2,8 +2,8 @@
 
 ### A few things about me...
 
-* I'm currently open to work.
-* I'm currently working on software for outlining and planning projects.
+* I'm currently working for Webscale Networks.
+* I'm currently developing software for outlining stories and planning projects.
 * Talk to me about social dynamics and leadership!
 * I am looking to collaborate on projects which encourage mental health and balance in life.
 * I am also looking to contribute to games.
