@@ -2,10 +2,10 @@
 
 ### A few things about me...
 
-* I'm currently looking for work.
-* I'm currently developing software for outlining stories and planning projects.
+* I'm currently working for Garmin.
+* I'm currently developing software for building real-world communities and developing games.
 * Talk to me about social dynamics and leadership!
-* I am looking to collaborate on projects which encourage mental health and balance in life.
+* I am looking to collaborate on projects that encourage mental health and balance in life.
 * I am also looking to contribute to games.
 * Feel free to reach out via my email or connect with me on LinkedIn!
 
