@@ -1,48 +1,37 @@
-## 👋 Welcome to my GitHub!
+## Alex Barclay
 
-### A few things about me...
+Senior software engineer in Denver. By day: payments features for **GarminPay iOS**
+(Swift/SwiftUI), where the edge cases carry financial consequences — before that, primary
+engineer on a hardware-connected Android app streaming live GPS telemetry. Nights and
+weekends: **agentic developer infrastructure**.
 
-* I'm currently working for Garmin.
-* I'm currently developing software for building real-world communities and developing games.
-* Talk to me about social dynamics and leadership!
-* I am looking to collaborate on projects that encourage mental health and balance in life.
-* I am also looking to contribute to games.
-* Feel free to reach out via my email or connect with me on LinkedIn!
+### What I'm building
 
+- **[command-center](https://github.com/adbarc92/command-center)** — Rust control plane
+  (tokio, axum, SQLite) supervising containerized coding agents: a reconcile loop over
+  authoritative state, WebSocket streaming to thin renderers, durable recovery across
+  restarts
+- **[reqdrive](https://github.com/adbarc92/reqdrive)** — written spec → PRD →
+  deterministic story-by-story implementation → draft PR unless the story set is
+  complete and the test suite passes, with a validation checklist and verification
+  table in the body
+- **[appforge](https://github.com/adbarc92/appforge)** — multi-agent orchestration on
+  the Model Context Protocol: an MCP state server, a six-phase dependency graph, and
+  human approval gates
+- **[mcp-browser-bridge](https://github.com/adbarc92/mcp-browser-bridge)** — MCP server
+  giving AI coding assistants direct control of a real browser (navigate, click, fill
+  forms, run JS, capture screenshots); published on npm
+- **[halyard](https://github.com/adbarc92/halyard)** — event-driven release state
+  machine for multi-platform launches; transitions, idempotence, and fail-safe paths
+  under test
 
-### Here's how to reach me!
+The common thread: agent systems where correctness is **enforced, not asserted** —
+approval gates, fail-closed defaults, deterministic selection, verification tables.
 
-<a href="https://www.linkedin.com/in/alex-barclay/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+### Elsewhere
 
-<a href="mailto:adb92.works@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
+**[tenzy.app](https://tenzy.app)** — a learning app built around matrix study guides
+with FSRS scheduling (React Native + Expo).
 
-<a href="https://twitter.com/AdeptFullStack" target="_blank">
-<img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
-### Preferred Tech
-
-<img height="32" width="32" align="left" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png' />
-<img height="32" width="32" align="left" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' />
-<img height="32" width="32" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img height="32" width="32" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img height="32" width="32" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
-<img height="32" width="32" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"/>
-<!--
-**adbarc92/adbarc92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [linkedin.com/in/alex-barclay](https://linkedin.com/in/alex-barclay) ·
+adb92.works@gmail.com
