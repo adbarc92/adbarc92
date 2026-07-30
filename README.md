@@ -28,10 +28,5 @@ weekends: **agentic developer infrastructure**.
 The common thread: agent systems where correctness is **enforced, not asserted** —
 approval gates, fail-closed defaults, deterministic selection, verification tables.
 
-### Elsewhere
-
-**[tenzy.app](https://tenzy.app)** — a learning app built around matrix study guides
-with FSRS scheduling (React Native + Expo).
-
 📫 [linkedin.com/in/alex-barclay](https://linkedin.com/in/alex-barclay) ·
 adb92.works@gmail.com
