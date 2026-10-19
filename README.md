@@ -38,9 +38,9 @@ infrastructure**.
   proves, against a planted violation, that the gate still fires. Requirement text is treated as
   hostile until screened.
 
-- **[halyard](https://github.com/adbarc92/halyard)** — a multi-platform launch modeled as one
-  durable, event-driven state machine: idempotent transitions, gates that terminate instead of
-  deploying, and recovery from failed transitions under test.
+- **[halyard](https://github.com/adbarc92/halyard)** — multi-platform releases modeled as a
+  durable, event-driven state machine: idempotent transitions, gates that end a release instead of
+  deploying it, and recovery from failed transitions under test.
 
 - **[mcp-browser-bridge](https://github.com/adbarc92/mcp-browser-bridge)** — an MCP server giving
   AI assistants control of a real Chrome browser through a deliberately narrow doorway: exactly
